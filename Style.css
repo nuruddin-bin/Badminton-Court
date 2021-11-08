@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Heading */
+h1 {
+    padding: 0.8rem;
+    background: powderblue;
+    text-align: center;
+}
+/* All Container */
+.container {
+    display: flex;
+    justify-content: center;
+}
+/* Top box */
+.FastBox {
+    height: 2.6rem;
+    width: 20rem;
+    background: #50CB93;
+    border: 0.125rem solid #191A19;
+    margin-top: 2rem;
+}
+/* Second Box */
+.SecondBox {
+    height: 12.9rem;
+    width: 10rem;
+    background: #71EFA3;
+    border: 0.125rem solid #191A19;
+    border-top: none;
+}
+/* Right Border */
+.brn {
+    border-right: none;
+}
+/* Third Box */
+.ThirdBox {
+    height: 6.5rem;
+    width: 20rem;
+    background: #ACFFAD;
+    border: 0.125rem solid #191A19;
+    border-top: none;
+    border-bottom: 0.125rem dotted #191A19;
+}
+
+/* Second AArea
+================*/
+
+/* Middle Box */
+.MiB {
+    border-bottom: 0.125rem solid #191A19;
+}
+/* Last Box */
+.LaB {
+    margin-top: 0;
+    border-top: none;
+    margin-bottom: 1rem;
+}
