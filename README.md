@@ -1,2 +1,2 @@
 ## Site Link
-https://nuruddin-bin.github.io/Badminton-Court/
+https://nuruddin-bin.github.io/badminton-court/
